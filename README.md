@@ -112,7 +112,7 @@ Market size and market quality are separate strategic metrics.
 ### Revenue Trend by Year (2011–2016)
 Revenue grew consistently from $8.95M in 2011 to a peak of $19.95M in 2015 — a **+123% increase** — before a partial-year drop in 2016 (data ends July).
 
-![Revenue by Year](assets/revenue_trend.png)
+![Revenue by Year](revenuetrend.png)
 
 ---
 
