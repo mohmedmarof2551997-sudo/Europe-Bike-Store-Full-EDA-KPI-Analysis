@@ -119,49 +119,49 @@ Revenue grew consistently from $8.95M in 2011 to a peak of $19.95M in 2015 — a
 ### Monthly Seasonality Pattern
 A clear and repeating annual cycle: revenue peaks in **June (~$9.0M)** and **December (~$9.0M)**, then collapses through **July–September (~$5.7M)** — a $3.3M swing that repeats without exception across all 5 years.
 
-![Monthly Revenue Seasonality](assets/seasonality_monthly.png)
+![Monthly Revenue Seasonality](seasonalitymonthly.png)
 
 ---
 
 ### Revenue by Quarter × Year (Heatmap)
 Q4 dominates every completed year. **Q4 2015 reached $9.2M** — the single strongest quarter on record. The heatmap also reveals Q1 weakness in 2011–2013 followed by an explosive recovery in later years.
 
-![Quarterly Revenue Heatmap](assets/quarterly_heatmap.png)
+![Quarterly Revenue Heatmap](quarterlyheatmap.png)
 
 ---
 
 ### Country Revenue vs Profit Margin
 The most counterintuitive chart in the dataset. **Canada sits at the bottom for revenue yet leads all countries with a 54.8% profit margin.** Australia is the inverse — high volume, relatively low margin at 41.8%.
 
-![Country Revenue vs Margin](assets/country_margin.png)
+![Country Revenue vs Margin](countrymargin.png)
 
 ---
 
 ### Product Category — Revenue vs Margin Comparison
 Bikes generate 72.4% of all revenue but carry only a 33.2% margin. **Accessories lead on margin (45.5%)** and order volume (69,312 orders). Clothing trails on both metrics.
 
-![Category Revenue vs Margin](assets/category_profitability.png)
+![Category Revenue vs Margin](categoryprofitability.png)
 
 ---
 
 ### Gender Revenue Split
 A near-perfect 50/50 split across $84.8M in total revenue — **50.8% Male vs 49.2% Female**. The absolute dollar difference is only $1.4M. A product with this balance across a mass market is genuinely rare.
 
-![Gender Revenue Split](assets/gender_split.png)
+![Gender Revenue Split](gendersplit.png)
 
 ---
 
 ### Correlation Heatmap — Numerical Features
 `Job Level` equivalent here is **Unit Price**, which shows the strongest correlation with Revenue (r=0.91). `Order Quantity` and `Cost` are highly correlated (r=0.88), confirming volume-driven cost scaling.
 
-![Correlation Heatmap](assets/correlation_heatmap.png)
+![Correlation Heatmap](correlationheatmap.png)
 
 ---
 
 ### Excel Executive Dashboard Preview
 The 4th sheet of the Excel workbook — a fully dynamic dashboard with KPI cards linked live to the Analysis pivot sheet, interactive slicers, and zero hardcoded values.
 
-![Excel Dashboard](assets/dashboard_preview.png)
+![Excel Dashboard](Excel_dashboard.png)
 
 ---
 
