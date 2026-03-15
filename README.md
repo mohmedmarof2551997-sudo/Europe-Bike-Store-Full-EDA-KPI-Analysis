@@ -161,7 +161,7 @@ A near-perfect 50/50 split across $84.8M in total revenue — **50.8% Male vs 49
 ### Excel Executive Dashboard Preview
 The 4th sheet of the Excel workbook — a fully dynamic dashboard with KPI cards linked live to the Analysis pivot sheet, interactive slicers, and zero hardcoded values.
 
-![Excel Dashboard](Exceldashboard.png)
+![Excel Dashboard](ExcelDashboard.png)
 
 ---
 
